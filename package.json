@@ -1,0 +1,15 @@
+{
+  "name": "alexaintegration",
+  "version": "1.0.0",
+  "description": "Alexa Integration with service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "anoop",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-verifier": "^2.0.1",
+    "express": "^4.16.3"
+  }
+}
